@@ -1,4 +1,4 @@
-public class Iloveyou {
+public class Randompattern {
     public static void main(String[] args) {
 
         int n = 11;
